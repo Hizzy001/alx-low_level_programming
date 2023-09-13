@@ -22,6 +22,6 @@ int main(void)
 		j = k - j;
 		++i;
 	}
-	printf("%ld\n", sum); Add '\n' to produce a newline
+	printf("%ld\n", sum); /* Add '\n' to produce a newline */
 	return (0);
 }
