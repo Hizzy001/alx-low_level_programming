@@ -2,7 +2,9 @@
 
 /**
 * print_number - Write a function that prints an integer
+*
 * @n: The function parameter
+*
 * Return: 0
 */
 
