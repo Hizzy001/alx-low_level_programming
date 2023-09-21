@@ -1,15 +1,5 @@
 #include <stdio.h>
 
-/**
- * main - Entry point of the program
- *
- * Description: This program demonstrates a code challenge where we are
- * given a set of restrictions and are asked to modify the value of 'a[2]'
- * indirectly using only one line of code.
- *
- * Return: Always 0 (indicating success)
- */
-
 int main(void)
 {
 	int n;
